@@ -1,6 +1,7 @@
 # vuex-crud-client-jwt
 
-based on this tutorial [aa](aa)
+based on [this tutorial](https://bezkoder.com/jwt-vue-vuex-authentication/)
+vuex front-end handling user authentication with JWT in combination with other project: node-express-mongo-JWT
 
 ## Project setup
 ```
