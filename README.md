@@ -1,5 +1,7 @@
 # vuex-crud-client-jwt
 
+based on this tutorial [aa](aa)
+
 ## Project setup
 ```
 npm install
